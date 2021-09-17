@@ -1,0 +1,10 @@
+html, body {
+  margin: 10;
+  padding: 10;
+}
+canva {display: block;
+}
+h1{text-align:left;
+  font-family: 'Cherish', cursive;
+}
+p{font-family: 'Amatic SC', cursive;}
